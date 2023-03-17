@@ -1,0 +1,44 @@
+{
+    "books": [
+        {   
+            "title": "JavaScript: The Definitive Guide: Activate Your Web Pages (Definitive Guides)",
+            "author": "David Flanagan",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51CxDZt9xWL.SX150.jpg"
+        },        
+        {   
+            "title": "Authentic Aromatherapy: Essential Oils and Blends for Health, Beauty, and Home",
+            "author": "Sharon Falsetto",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/510C2GUMabL.SX150.jpg"
+        },
+        {   
+            "title": "Only the Paranoid Survive: How to Exploit the Crisis Points That Challenge Every Company",
+            "author": "Andrew S. Grove",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51ip%2BmJLUpL.SX150.jpg"
+        },
+        {   
+            "title": "The Mediterranean Diet Weight Loss Solution: The 28-Day Kickstart Plan for Lasting Weight Loss",
+            "author": "Stassou MS RD, Julene",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61cuKxEJwiL.SX150.jpg"
+        },
+        {   
+            "title": "Catch-22: 50th Anniversary Edition",
+            "author": "Joseph Heller",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51VIjrEJtaL.SX150.jpg"
+        },
+        {   
+            "title": "The Mythical Man-Month: Essays on Software Engineering, Anniversary Edition",
+            "author": "Brooks Jr., Frederick P.",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51xCKsOn83L.SX150.jpg"
+        },
+        {   
+            "title": "The Joy of Sex: The Ultimate Revised Edition",
+            "author": "Alex Comfort",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/41cWC7hFg4L.SX150.jpg"
+        },
+        {   
+            "title": "What Color Is Your Parachute? Guide to Rethinking Resumes: Write a Winning Resume and Cover Letter and Land Your Dream Interview (What Color Is Your Parachute Guide to Rethinking..)",
+            "author": "Richard N. Bolles",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51cqZrIQk1L.SX150.jpg"
+        }
+    ]
+}

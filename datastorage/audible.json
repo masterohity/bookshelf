@@ -1,0 +1,44 @@
+{
+    "books": [
+        {   
+            "title": "Thinking, Fast and Slow",
+            "author": "Daniel Kahneman",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/414IVDQ5uaL.SX150.jpg"
+        },
+        {   
+            "title": "Atlas Shrugged",
+            "author": "Ayn Rand",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51bRdBXqe%2BL.SX150.jpg"
+        },
+        {   
+            "title": "The Happiness Equation",
+            "author": "Neil Pasricha",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51-eB20AxLL.SX150.jpg"
+        },
+        {   
+            "title": "Essentialism",
+            "author": "Greg McKeown",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/519eY-pLzQL.SX150.jpg"
+        },
+        {   
+            "title": "The 4-Hour Workweek: Escape 9-5, Live Anywhere, and Join the New Rich (Expanded and Updated)",
+            "author": "Timothy Ferriss",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51lBbwPe7rL.SX150.jpg"
+        },
+        {   
+            "title": "Mindset: The New Psychology of Success",
+            "author": "Carol Dweck",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51mJswf7W9L.SX150.jpg"
+        },
+        {   
+            "title": "The First Billion is the Hardest",
+            "author": "T. Boone Pickens",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/517wMe1XZxL.SX150.jpg"
+        },
+        {   
+            "title": "Good Strategy/Bad Strategy",
+            "author": "Richard P. Rumelt",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51ZhUF98zYL.SX150.jpg"
+        }
+    ]
+}

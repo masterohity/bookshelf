@@ -1,0 +1,29 @@
+{
+    "books": [
+        {   
+            "title": "The Science of Selling: Proven Strategies to Make Your Pitch, Influence Decisions, and Close the Deal",
+            "author": "David Hoffeld",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/41hmdrB36hL.SX150.jpg"
+        },
+        {   
+            "title": "As a Man Thinketh",
+            "author": "James Allen",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51-ZsmM5y4L.SX150.jpg"
+        },
+        {   
+            "title": "The 7 Principles of Public Speaking: Proven Methods from a PR Professional",
+            "author": "Richard Zeoli",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/41oWFKYMhbL.SX150.jpg"
+        },
+        {   
+            "title": "Man's Search for Meaning",
+            "author": "Viktor E. Frankl",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51R-nsX-7fL.SX150.jpg"
+        },
+        {   
+            "title": "From Stress to Stillness",
+            "author": "Gina Lake",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51KGZvUyBxL.SX150.jpg"
+        }
+    ]
+}
